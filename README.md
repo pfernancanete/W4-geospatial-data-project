@@ -1,4 +1,6 @@
 # W4-geospatial-data-project
+![Project+Geo+Banner](https://user-images.githubusercontent.com/80899361/115218403-d0ce7880-a106-11eb-91bd-5490e8d1d09a.png)
+
 
 This is the fourth project I do at the Data Analytics bootcamp in Ironhack.
 
@@ -32,3 +34,4 @@ United States is among the top countries in the videogame industry and since NYC
 
 ## Conclusion
 As shown in the map, the location of the company is perfect since all the establishements that make the employees happy are very near to the office.
+![map](https://user-images.githubusercontent.com/80899361/115218428-d62bc300-a106-11eb-9d6a-868f29de2ffe.PNG)
