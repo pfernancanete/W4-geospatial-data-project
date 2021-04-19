@@ -34,4 +34,5 @@ United States is among the top countries in the videogame industry and since NYC
 
 ## Conclusion
 As shown in the map, the location of the company is perfect since all the establishements that make the employees happy are very near to the office.
+
 ![map](https://user-images.githubusercontent.com/80899361/115218428-d62bc300-a106-11eb-9d6a-868f29de2ffe.PNG)
