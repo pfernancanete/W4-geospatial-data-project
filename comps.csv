@@ -1,0 +1,12 @@
+city,country_code,latitude,longitude,name,category_code,number_of_employees,founded_year
+New York,USA,40.726155,-73.995625,Livestream,games_video,120,2007
+New York,USA,40.722655,-73.99873,Pando Networks,games_video,23,2004
+New York,USA,37.09024,-95.712891,SpiralFrog,games_video,15,2004
+New York,USA,40.717248,-74.002662,Boonty,games_video,150,2001
+New York,USA,40.73993,-73.9930489,Cellufun,games_video,30,2005
+New York,USA,40.752672,-73.97593,Major League Gaming,games_video,45,2002
+New York,USA,40.743877,-73.98618,Saavn,games_video,25,2006
+New York,USA,40.743877,-73.98618,[212]Media,games_video,75,2004
+New York,USA,40.756054,-73.986951,Yoostar,games_video,40,2007
+Los Angeles,USA,34.052187,-118.243425,Yoostar,games_video,40,2007
+New York,USA,40.756054,-73.986951,GameGround,games_video,25,2007
